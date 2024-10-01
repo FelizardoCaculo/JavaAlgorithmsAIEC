@@ -8,9 +8,9 @@ public class Exercise001 {
         int number1, number2, sumResult;
 
         //Input Datas
-        System.out.println("\nDigite o 1º número: ");
+        System.out.println("\nDigite o 1º número inteiro: ");
         number1 = userInput.nextInt();
-        System.out.println("\nDigite o 2º número: ");
+        System.out.println("\nDigite o 2º número inteiro: ");
         number2 = userInput.nextInt();
 
         //Data Processing
